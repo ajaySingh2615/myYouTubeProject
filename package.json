@@ -1,0 +1,16 @@
+{
+  "name": "myyoutube",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000y\u0000Y\u0000o\u0000u\u0000T\u0000u\u0000b\u0000e\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
